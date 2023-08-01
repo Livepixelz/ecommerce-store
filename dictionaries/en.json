@@ -1,0 +1,11 @@
+{
+  "server-component": {
+    "welcome": "Welcome",
+    "featuredProducts": "Featured Products"
+  },
+  "localeSwitcher": "Locale Switcher",
+  "counter": {
+    "increment": "Increment",
+    "decrement": "Decrement"
+  }
+}
